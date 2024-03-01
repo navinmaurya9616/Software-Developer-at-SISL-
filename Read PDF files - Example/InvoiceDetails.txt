@@ -1,0 +1,10 @@
+Invoice details
+
+Vendor: Bank Account: 7387324
+Vendor address: 123 Basedow Street
+City: Leipzig
+Phone number: 341 600 800 
+Invoice number: 850888
+Bank name: Ostbank Berlin
+Bank account: 7387324
+IBAN Code: DE560000997387324
